@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kodilla3-course3.iml" filepath="$PROJECT_DIR$/kodilla3-course3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla3-testing3.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla3-testing3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla3-testing3_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla3-testing3_main.iml" group="kodilla3-testing3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla3-testing3_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla3-testing3_test.iml" group="kodilla3-testing3" />
     </modules>
   </component>
 </project>
