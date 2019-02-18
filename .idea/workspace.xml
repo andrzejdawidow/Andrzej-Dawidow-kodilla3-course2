@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65be396f-e927-4371-b3cf-63c4ab6c48f2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla3-testing3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla3-testing3_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla3-testing3_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/TestingMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/build.gradle">
+      <file leaf-file-name="TestingMain3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/TestingMain3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -236,9 +229,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/kodilla3-testing3" value="6202087889804" />
+        <entry key="$PROJECT_DIR$/kodilla3-testing3" value="6202088356593" />
         <entry key="$PROJECT_DIR$/kodilla3-testing3/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/kodilla3-testing3/build.gradle" value="1943543070" />
+        <entry key="$PROJECT_DIR$/kodilla3-testing3/build.gradle" value="3645150889" />
         <entry key="$PROJECT_DIR$/kodilla3-testing3/gradle/wrapper/gradle-wrapper.properties" value="2083459160" />
         <entry key="$PROJECT_DIR$/kodilla3-testing3/settings.gradle" value="3925319000" />
       </map>
@@ -432,7 +425,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="258" />
     <option name="y" value="18" />
     <option name="width" value="1401" />
@@ -468,13 +461,26 @@
             <path>
               <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla3-course3" type="462c0819:PsiDirectoryNode" />
+              <item name="kodilla3-testing3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla3-course3" type="462c0819:PsiDirectoryNode" />
+              <item name="kodilla3-testing3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla3" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla3-course3" type="462c0819:PsiDirectoryNode" />
+              <item name="kodilla3-testing3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
@@ -503,7 +509,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestingMain3">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -514,6 +520,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kodilla3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestingMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.TestingMain3" />
+      <module name="kodilla3-testing3_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla3.testing3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -559,8 +576,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.FirstClass3" />
+      <item itemvalue="Application.TestingMain3" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestingMain3" />
         <item itemvalue="Application.FirstClass3" />
       </list>
     </recent_temporary>
@@ -591,10 +613,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3291592" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3291592" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291592" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
       <window_info anchor="bottom" id="Build" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -635,8 +657,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla3-testing3/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="255">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/TestingMain3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
