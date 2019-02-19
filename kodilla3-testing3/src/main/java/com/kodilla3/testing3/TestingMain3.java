@@ -14,11 +14,11 @@ public class TestingMain3 {
             System.out.println("add Error!");
         }
         //Test2
-        int result1 = simpleCalculator.substract(5, 5);
+        int result1 = simpleCalculator.subtract(5, 5);
         if (result1==(0)){
-            System.out.println("substract OK");
+            System.out.println("subtract OK");
         } else {
-            System.out.println("substract Error!");
+            System.out.println("subtract Error!");
         }
     }
 }
