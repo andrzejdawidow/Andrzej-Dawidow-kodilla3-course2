@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65be396f-e927-4371-b3cf-63c4ab6c48f2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumComment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/tdd/ForumTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_all_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/weather/stub/Temperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/weather/stub/WeatherForecast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/weather/mock/WeatherForecastTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/weather/stub/TemperaturesStub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/weather/stub/WeatherForecastTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla3-testing3_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kodilla3-testing3_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla3-testing3/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla3-testing3/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla3-testing3/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla3-testing3/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla3-testing3/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla3-testing3/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/kodilla3-testing3/.gradle/" />
@@ -32,49 +38,33 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ForumPost.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumPost.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ForumComment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumComment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ForumUser.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumUser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1868#1869#0" expanded="true" />
-                <element signature="e#1895#1896#0" expanded="true" />
-                <element signature="e#1929#1930#0" expanded="true" />
-                <element signature="e#1960#1961#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ForumTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/tdd/ForumTestSuite.java">
+    <leaf>
+      <file leaf-file-name="Temperatures.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/weather/stub/Temperatures.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeatherForecast.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/weather/stub/WeatherForecast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#375#392#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeatherForecastTestSuite.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/weather/stub/WeatherForecastTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -84,6 +74,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -94,7 +85,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$/kodilla3-testing3" value="C:\Users\ad_gr\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
+        <entry key="$PROJECT_DIR$/kodilla3-testing3" value="C:\Users\ad_gr\.gradle\wrapper\dists\gradle-4.4-all\9br9xq1tocpiv8o6njlyu5op1\gradle-4.4" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -269,9 +260,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/kodilla3-testing3" value="6202088356593" />
+        <entry key="$PROJECT_DIR$/kodilla3-testing3" value="6202678031323" />
         <entry key="$PROJECT_DIR$/kodilla3-testing3/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/kodilla3-testing3/build.gradle" value="3645150889" />
+        <entry key="$PROJECT_DIR$/kodilla3-testing3/build.gradle" value="1455045198" />
         <entry key="$PROJECT_DIR$/kodilla3-testing3/gradle/wrapper/gradle-wrapper.properties" value="2083459160" />
         <entry key="$PROJECT_DIR$/kodilla3-testing3/settings.gradle" value="3925319000" />
       </map>
@@ -461,7 +452,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/kodilla3/FirstClass3.java" />
-        <option value="$PROJECT_DIR$/kodilla3-testing3/build.gradle" />
         <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/user3/SimpleUser3.java" />
         <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/user/SimpleUser.java" />
         <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/calculator/Calculator.java" />
@@ -473,14 +463,22 @@
         <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumComment.java" />
         <option value="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/tdd/ForumTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumUser.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/weather/stub/Temperatures.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/weather/stub/WeatherForecast.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/weather/stub/WeatherForecastTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/weather/stub/TemperaturesStub.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/build.gradle" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/weather/mock/WeatherForecastTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/statistics/Statistics.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/statistics/StatisticsCalculation.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="y" value="6" />
-    <option name="width" value="1892" />
-    <option name="height" value="629" />
+    <option name="x" value="3" />
+    <option name="y" value="18" />
+    <option name="width" value="1917" />
+    <option name="height" value="510" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -488,9 +486,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -541,17 +539,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testing3" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodilla3-course3" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla3-testing3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing3" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="stub" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
@@ -585,7 +573,7 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testing3" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
+              <item name="weather" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
@@ -595,8 +583,8 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testing3" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="tdd" type="462c0819:PsiDirectoryNode" />
+              <item name="weather" type="462c0819:PsiDirectoryNode" />
+              <item name="stub" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
@@ -609,10 +597,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Andrzej-Dawidow-kodilla-java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.kodilla3.testing3.weather.stub" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -626,7 +620,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ForumTestSuite">
+  <component name="RunManager" selected="JUnit.WeatherForecastTestSuite.testCalculateForecastWithStub">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -646,29 +640,6 @@
       <option name="PACKAGE_NAME" value="com.kodilla3.testing3.collection" />
       <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.collection.CollectionTestSuite" />
       <option name="METHOD_NAME" value="testOddNumbersExterminatorEmptyList" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="CollectionTestSuite.testOddNumbersExterminatorNormalList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla3-testing3_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla3.testing3.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.kodilla3.testing3.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.collection.CollectionTestSuite" />
-      <option name="METHOD_NAME" value="testOddNumbersExterminatorNormalList" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -725,19 +696,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ForumTestSuite.testCaseUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WeatherForecastTestSuite.testCalculateForecastWithMock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kodilla3-testing3_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla3.testing3.forum.*" />
+          <option name="PATTERN" value="com.kodilla3.testing3.weather.mock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.kodilla3.testing3.forum" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.forum.ForumTestSuite" />
-      <option name="METHOD_NAME" value="testCaseUsername" />
+      <option name="PACKAGE_NAME" value="com.kodilla3.testing3.weather.mock" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.weather.mock.WeatherForecastTestSuite" />
+      <option name="METHOD_NAME" value="testCalculateForecastWithMock" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="WeatherForecastTestSuite.testCalculateForecastWithStub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla3-testing3_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla3.testing3.weather.stub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kodilla3.testing3.weather.stub" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.weather.stub.WeatherForecastTestSuite" />
+      <option name="METHOD_NAME" value="testCalculateForecastWithStub" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -787,19 +781,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ForumTestSuite.testCaseUsername" />
       <item itemvalue="JUnit.CollectionTestSuite.testOddNumbersExterminatorEmptyList" />
-      <item itemvalue="JUnit.CollectionTestSuite.testOddNumbersExterminatorNormalList" />
       <item itemvalue="JUnit.ForumTestSuite.testAddPost" />
       <item itemvalue="JUnit.ForumTestSuite" />
+      <item itemvalue="JUnit.WeatherForecastTestSuite.testCalculateForecastWithStub" />
+      <item itemvalue="JUnit.WeatherForecastTestSuite.testCalculateForecastWithMock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WeatherForecastTestSuite.testCalculateForecastWithStub" />
+        <item itemvalue="JUnit.WeatherForecastTestSuite.testCalculateForecastWithMock" />
         <item itemvalue="JUnit.ForumTestSuite" />
         <item itemvalue="JUnit.ForumTestSuite.testAddPost" />
         <item itemvalue="JUnit.CollectionTestSuite.testOddNumbersExterminatorEmptyList" />
-        <item itemvalue="JUnit.CollectionTestSuite.testOddNumbersExterminatorNormalList" />
-        <item itemvalue="JUnit.ForumTestSuite.testCaseUsername" />
       </list>
     </recent_temporary>
   </component>
@@ -817,18 +811,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CollectionTestSuite_testOddNumbersExterminatorEmptyList - 2019.02.20 at 20h 21m 03s.xml">
-      <configuration name="CollectionTestSuite.testOddNumbersExterminatorEmptyList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionTestSuite_testOddNumbersExterminatorNormalList - 2019.02.20 at 20h 21m 18s.xml">
-      <configuration name="CollectionTestSuite.testOddNumbersExterminatorNormalList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionTestSuite_testOddNumbersExterminatorEmptyList - 2019.02.20 at 20h 22m 27s.xml">
-      <configuration name="CollectionTestSuite.testOddNumbersExterminatorEmptyList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionTestSuite_testOddNumbersExterminatorEmptyList - 2019.02.20 at 20h 23m 23s.xml">
-      <configuration name="CollectionTestSuite.testOddNumbersExterminatorEmptyList" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ForumTestSuite_testAddPost - 2019.02.23 at 17h 35m 16s.xml">
       <configuration name="ForumTestSuite.testAddPost" configurationId="JUnit" />
     </history-entry>
@@ -847,6 +829,18 @@
     <history-entry file="ForumTestSuite - 2019.02.23 at 18h 52m 51s.xml">
       <configuration name="ForumTestSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ForumTestSuite - 2019.02.23 at 18h 59m 53s.xml">
+      <configuration name="ForumTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ForumTestSuite - 2019.02.23 at 19h 00m 26s.xml">
+      <configuration name="ForumTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherForecastTestSuite_testCalculateForecastWithStub - 2019.02.25 at 17h 20m 23s.xml">
+      <configuration name="WeatherForecastTestSuite.testCalculateForecastWithStub" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherForecastTestSuite_testCalculateForecastWithMock - 2019.02.25 at 18h 38m 24s.xml">
+      <configuration name="WeatherForecastTestSuite.testCalculateForecastWithMock" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -859,7 +853,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291592" />
@@ -869,105 +862,32 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.6207513" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32721713" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3255814" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28582996" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30040485" />
       <window_info anchor="right" id="Gradle" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumComment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1868#1869#0" expanded="true" />
-            <element signature="e#1895#1896#0" expanded="true" />
-            <element signature="e#1929#1930#0" expanded="true" />
-            <element signature="e#1960#1961#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/user/SimpleUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/collection/OddNumbersExterminator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/collection/CollectionTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/tdd/ForumTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/ForumTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumPost.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -986,13 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1868#1869#0" expanded="true" />
-            <element signature="e#1895#1896#0" expanded="true" />
-            <element signature="e#1929#1930#0" expanded="true" />
-            <element signature="e#1960#1961#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1007,12 +920,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1027,11 +934,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1039,9 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1049,9 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1073,13 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1868#1869#0" expanded="true" />
-            <element signature="e#1895#1896#0" expanded="true" />
-            <element signature="e#1929#1930#0" expanded="true" />
-            <element signature="e#1960#1961#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1094,12 +983,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1114,11 +997,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1126,9 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1136,9 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1153,12 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1173,11 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1199,12 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1212,9 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1254,13 +1106,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/calculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1272,9 +1117,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1282,12 +1124,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1302,17 +1138,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
           <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumComment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
+        <state relative-caret-position="255">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
@@ -1320,31 +1151,68 @@
     <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumPost.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/tdd/ForumTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/weather/stub/TemperaturesStub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="77" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/weather/mock/WeatherForecastTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/statistics/StatisticsCalculation.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/statistics/Statistics.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/weather/stub/Temperatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/weather/stub/WeatherForecast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#375#392#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumUser.java">
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/weather/stub/WeatherForecastTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1868#1869#0" expanded="true" />
-            <element signature="e#1895#1896#0" expanded="true" />
-            <element signature="e#1929#1930#0" expanded="true" />
-            <element signature="e#1960#1961#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
