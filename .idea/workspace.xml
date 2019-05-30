@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65be396f-e927-4371-b3cf-63c4ab6c48f2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/out/production/classes/com/kodilla3/testing3/shape/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/out/production/classes/com/kodilla3/testing3/shape/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/out/production/classes/com/kodilla3/testing3/shape/ShapeCollector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/out/production/classes/com/kodilla3/testing3/shape/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/out/production/classes/com/kodilla3/testing3/shape/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/out/test/classes/com/kodilla3/testing3/shape/ShapeCollectorTestSuite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/ShapeCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/shape/ShapeCollectorTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/tdd/ForumTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/tdd/ForumTestSuite.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/kodilla3-testing3/.gradle/" />
@@ -30,11 +41,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ForumTestSuite.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/tdd/ForumTestSuite.java">
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="127" column="27" lean-forward="true" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
+            <state relative-caret-position="68">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+              <folding>
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+              <folding>
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+              <folding>
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeCollector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/ShapeCollector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeCollectorTestSuite.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/shape/ShapeCollectorTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -441,6 +524,12 @@
         <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/statistics/StatisticsCalculation.java" />
         <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/weather/stub/WeatherForecast.java" />
         <option value="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/tdd/ForumTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Shape.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/ShapeCollector.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Circle.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Triangle.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Square.java" />
+        <option value="$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/shape/ShapeCollectorTestSuite.java" />
       </list>
     </option>
   </component>
@@ -505,6 +594,16 @@
               <item name="kodilla3-course3" type="462c0819:PsiDirectoryNode" />
               <item name="kodilla3-testing3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing3" type="462c0819:PsiDirectoryNode" />
+              <item name="shape" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla3-course3" type="462c0819:PsiDirectoryNode" />
+              <item name="kodilla3-testing3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -523,27 +622,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testing3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodilla3-course3" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla3-testing3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing3" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodilla3-course3" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla3-testing3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testing3" type="462c0819:PsiDirectoryNode" />
-              <item name="forum" type="462c0819:PsiDirectoryNode" />
-              <item name="tdd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla3-course3" type="b2602c69:ProjectViewProjectNode" />
@@ -580,7 +658,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ForumTestSuite.testRemoveComment">
+  <component name="RunManager" selected="JUnit.ShapeCollectorTestSuite.testGetFigure">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -601,29 +679,6 @@
       <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.forum.tdd.ForumTestSuite" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ForumTestSuite.testGetComment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla3-testing3_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla3.testing3.forum.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.kodilla3.testing3.forum.tdd" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.forum.tdd.ForumTestSuite" />
-      <option name="METHOD_NAME" value="testGetComment" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -656,19 +711,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ForumTestSuite.testRemoveCommentNotExisting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShapeCollectorTestSuite.testAddFigure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kodilla3-testing3_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla3.testing3.forum.tdd.*" />
+          <option name="PATTERN" value="com.kodilla3.testing3.shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.kodilla3.testing3.forum.tdd" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.forum.tdd.ForumTestSuite" />
-      <option name="METHOD_NAME" value="testRemoveCommentNotExisting" />
+      <option name="PACKAGE_NAME" value="com.kodilla3.testing3.shape" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.shape.ShapeCollectorTestSuite" />
+      <option name="METHOD_NAME" value="testAddFigure" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -679,19 +734,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ForumTestSuite.testRemovePostNotExisting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShapeCollectorTestSuite.testGetFigure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kodilla3-testing3_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla3.testing3.forum.tdd.*" />
+          <option name="PATTERN" value="com.kodilla3.testing3.shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.kodilla3.testing3.forum.tdd" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.forum.tdd.ForumTestSuite" />
-      <option name="METHOD_NAME" value="testRemovePostNotExisting" />
+      <option name="PACKAGE_NAME" value="com.kodilla3.testing3.shape" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.shape.ShapeCollectorTestSuite" />
+      <option name="METHOD_NAME" value="testGetFigure" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ShapeCollectorTestSuite.testRemoveFigure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla3-testing3_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla3.testing3.shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kodilla3.testing3.shape" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla3.testing3.shape.ShapeCollectorTestSuite" />
+      <option name="METHOD_NAME" value="testRemoveFigure" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -741,19 +819,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ForumTestSuite.testGetComment" />
       <item itemvalue="JUnit.ForumTestSuite" />
-      <item itemvalue="JUnit.ForumTestSuite.testRemovePostNotExisting" />
-      <item itemvalue="JUnit.ForumTestSuite.testRemoveCommentNotExisting" />
       <item itemvalue="JUnit.ForumTestSuite.testRemoveComment" />
+      <item itemvalue="JUnit.ShapeCollectorTestSuite.testAddFigure" />
+      <item itemvalue="JUnit.ShapeCollectorTestSuite.testRemoveFigure" />
+      <item itemvalue="JUnit.ShapeCollectorTestSuite.testGetFigure" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ForumTestSuite.testRemoveComment" />
-        <item itemvalue="JUnit.ForumTestSuite.testRemoveCommentNotExisting" />
-        <item itemvalue="JUnit.ForumTestSuite.testRemovePostNotExisting" />
+        <item itemvalue="JUnit.ShapeCollectorTestSuite.testGetFigure" />
+        <item itemvalue="JUnit.ShapeCollectorTestSuite.testRemoveFigure" />
+        <item itemvalue="JUnit.ShapeCollectorTestSuite.testAddFigure" />
         <item itemvalue="JUnit.ForumTestSuite" />
-        <item itemvalue="JUnit.ForumTestSuite.testGetComment" />
+        <item itemvalue="JUnit.ForumTestSuite.testRemoveComment" />
       </list>
     </recent_temporary>
   </component>
@@ -771,21 +849,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CollectionTestSuite_testOddNumbersExterminatorEmptyList - 2019.05.27 at 18h 29m 28s.xml">
-      <configuration name="CollectionTestSuite.testOddNumbersExterminatorEmptyList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionTestSuite - 2019.05.27 at 18h 29m 46s.xml">
-      <configuration name="CollectionTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionTestSuite_testOddNumbersExterminatorNormalList - 2019.05.30 at 10h 06m 36s.xml">
-      <configuration name="CollectionTestSuite.testOddNumbersExterminatorNormalList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionTestSuite_testOddNumbersExterminatorNormalList - 2019.05.30 at 10h 19m 02s.xml">
-      <configuration name="CollectionTestSuite.testOddNumbersExterminatorNormalList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ForumTestSuite_testAddPost - 2019.05.30 at 10h 30m 15s.xml">
-      <configuration name="ForumTestSuite.testAddPost" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ForumTestSuite_testGetComment - 2019.05.30 at 10h 38m 58s.xml">
       <configuration name="ForumTestSuite.testGetComment" configurationId="JUnit" />
     </history-entry>
@@ -801,6 +864,21 @@
     <history-entry file="ForumTestSuite_testRemoveCommentNotExisting - 2019.05.30 at 10h 58m 05s.xml">
       <configuration name="ForumTestSuite.testRemoveCommentNotExisting" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ForumTestSuite_testRemoveComment - 2019.05.30 at 11h 02m 08s.xml">
+      <configuration name="ForumTestSuite.testRemoveComment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ForumTestSuite - 2019.05.30 at 11h 04m 44s.xml">
+      <configuration name="ForumTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShapeCollectorTestSuite_testAddFigure - 2019.05.30 at 12h 27m 12s.xml">
+      <configuration name="ShapeCollectorTestSuite.testAddFigure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShapeCollectorTestSuite_testRemoveFigure - 2019.05.30 at 12h 33m 21s.xml">
+      <configuration name="ShapeCollectorTestSuite.testRemoveFigure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShapeCollectorTestSuite_testGetFigure - 2019.05.30 at 12h 41m 23s.xml">
+      <configuration name="ShapeCollectorTestSuite.testGetFigure" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -813,7 +891,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291592" />
@@ -825,10 +902,10 @@
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3309481" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3255814" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3255814" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24453442" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24453442" />
       <window_info anchor="right" id="Gradle" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -849,48 +926,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumComment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/user/SimpleUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/collection/OddNumbersExterminator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/collection/CollectionTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -1088,13 +1123,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla3-testing3/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1167,10 +1195,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/forum/ForumUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/forum/tdd/ForumTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="127" column="27" lean-forward="true" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/ShapeCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/main/java/com/kodilla3/testing3/shape/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla3-testing3/src/test/java/com/kodilla3/testing3/shape/ShapeCollectorTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
