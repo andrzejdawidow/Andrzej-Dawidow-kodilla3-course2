@@ -1,5 +1,6 @@
 package com.kodilla3.stream3;
 
+import com.kodilla3.stream3.iterate.NumbersGenerator;
 import com.kodilla3.stream3.lambda.ExecuteSaySomething;
 import com.kodilla3.stream3.lambda.Executor;
 import com.kodilla3.stream3.lambda.ExpressionExecutor;
@@ -38,5 +39,10 @@ public class StreamMain {
 
         String someTekst4 = poemBeautifier.beautify("number4", a -> "#A#B#C#" + a + "#A#B#C#");
         System.out.println(someTekst4);
+
+        System.out.println();
+        System.out.println("Pierwszy przyklad wykorzystujacy Stream");
+        System.out.println("Using Stream to generate even numbers from 1 to 20");
+        NumbersGenerator.generateEven(20);
     }
 }
