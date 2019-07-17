@@ -24,6 +24,7 @@ public class StreamMain {
         expressionExecutor.executeExpression(3, 4, FunctionalCalculator::subBFromA);
         expressionExecutor.executeExpression(3, 4, FunctionalCalculator::divideAByB);
         System.out.println();
+
         System.out.println("Zadanie 7_1_Upiekszacz_tekstow");
         PoemBeautifier poemBeautifier = new PoemBeautifier();
         String someTekst1 = poemBeautifier.beautify("number1", a -> "super1 + " + a + " + super2");
